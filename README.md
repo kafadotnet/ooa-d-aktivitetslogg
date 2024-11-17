@@ -49,3 +49,13 @@ Beskrivning: Jag har skapat och updaterat aktiviter och testfall för den andra 
 2.5. [Userstoryn 2.2.4 - Testfall 4](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/2.4.%20Testfall%20Detaljer.png)
 
 2.6. [Userstoryn 2.2.4 - Testfall 4](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/2.5.%20Testfall%20Detaljer.png)
+
+## Datum: 2024 - 11 - 01
+Beskrivning: Jag har skapat en tredje userstoryn som ska möjligora att administratör kan övervaka köphistorik så generera rapport. 
+Som bilaga finns relevanta acceptanskriterier, aktiviter och testfall samt med aktivitetsdiagram.
+
+3.1. [Userstoryn 3](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/3.1.%20UserStoryn%20%233.png)
+
+3.2. [Userstoryn 3.1 - Aktiviter och Testfall](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/3.2.%20UserStoryn%20%233.2%20-%20Aktiviteter%20Testfall.png)
+
+3.3. [Userstoryn 3.2 - AtivitetsDiagram](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/3.3.%20UserStory%20%233%20-%20AktivitetsDiagram.png)
