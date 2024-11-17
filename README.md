@@ -67,14 +67,43 @@ Beskrivning: I helgen och idag har jag updaterat userstoryn 3 Aktiviteter och te
 
 3.2.2. [Userstoryn 3.2. Updaterad aktivitet](https://github.com/kafadotnet/ooa-d-aktivitetslogg/commit/938bd33099c76a2481f56c5103e0b8ba6327d007)
 
-3.2.3. [Userstoryn 3.2. Updaterad aktivitet](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/3.3.%20Aktivitet%20Detaljer.png)
+3.2.3. [Userstoryn 3.3. Updaterad aktivitet](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/3.3.%20Aktivitet%20Detaljer.png)
 
-3.2.4. [Userstoryn 3.2. Updaterad aktivitet](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/3.4.%20Aktivitet%20Detaljer.png)
+3.2.4. [Userstoryn 3.4. Updaterad aktivitet](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/3.4.%20Aktivitet%20Detaljer.png)
 
-3.2.5. [Userstoryn 3.2. Updaterad aktivitet](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/3.5.%20Aktivitet%20Detaljer.png)
+3.2.5. [Userstoryn 3.5. Updaterad aktivitet](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/3.5.%20Aktivitet%20Detaljer.png)
 
-3.2.6. [Userstoryn 3.2. Updaterad aktivitet](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/3.6.%20Aktivitet%20Detaljer.png)
+3.2.6. [Userstoryn 3.6. Updaterad aktivitet](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/3.6.%20Aktivitet%20Detaljer.png)
 
-3.2.7. [Userstoryn 3.2. Updaterad aktivitet](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/3.7.%20Aktivitet%20Detaljer.png)
+3.2.7. [Userstoryn 3.7. Updaterad aktivitet](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/3.7.%20Aktivitet%20Detaljer.png)
 
-3.2.8. [Userstoryn 3.2. Updaterad aktivitet](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/3.9.%20Aktivitet%20Detaljer.png)
+3.2.8. [Userstoryn 3.8. Updaterad aktivitet](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/3.9.%20Aktivitet%20Detaljer.png)
+
+## Datum: 2024 - 11 - 05
+Beskrivning: Idag har jag börjat med att skapa DDD (Domain-Driven Development) baserat struktur till ExaminationProjektF&A (Fabrice och Arvid). Jag valde DDD för att det underlätta skalbarhet och underhåll. Under processen enhetstester genomforts för att genom att simulera dem vi ska sakertställa att vår app ska fungera som det ska. Projekt utvecklats med hänsyn till SOLID principles:
+
+### Projekt Struktur:
+Projekts utveckling följde DDD struktur:
+- [Projekt Struktur:](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/1.%20Projekt%20DDD%20Struktur.png)
+
+## SOLID Principles
+### SRP: 
+Jag använde mig av olika metoder som har egena ansvar och kunde används i olika ställe:
+
+- [Olika Modellen med egena ansvar](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/8.%20Models%20single%20responsibility.png)
+
+### OCP:
+Jag använde mig av interfaces för att isolera existerande kod medan genomförade jag tester:
+
+- [Interfaces](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/2.%20.png)
+
+## Tester:
+Tester genomförs på user och purchase entities:
+
+- [Olika tester](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/10.%20Olika%20Tester.png)
+
+[Theory] attribut används till tester för att test metoder med olika input data vilket passar med att testa köp och användare:
+
+- [Theory användaning](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/4.%20User%20Entity%20Test.png)
+
+
