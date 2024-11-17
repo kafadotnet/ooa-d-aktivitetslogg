@@ -35,3 +35,17 @@ Beskrivning: Jag har skapat en andra userstory utifrån kravspecifikation. Fokus
 
 2.4. [Userstoryn 2.4: SekvensDiagram](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/2.3.%20UserStory%20%232%20-%20SekvensDiagram.png)
 
+## Datum: 2024 - 10 - 31
+Beskrivning: Jag har skapat och updaterat aktiviter och testfall för den andra userstory. Följande ligger som bilaga dokument:
+
+2.1. [Userstoryn 2.1](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/2.1.%20UserStoryn%20%232.%20UserStoryn%20%232.png)
+
+2.2. [Userstoryn 2.2.1 - Aktivitet 1](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/2.1.%20Atitivitet%20Detaljer.png)
+
+2.3. [Userstoryn 2.2.2 - Aktivitet 2](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/2.2.%20Atitivitet%20Detaljer.png)
+
+2.4. [Userstoryn 2.2.3 - Aktivitet 3](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/2.3.%20Atitivitet%20Detaljer.png)
+
+2.5. [Userstoryn 2.2.4 - Testfall 4](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/2.4.%20Testfall%20Detaljer.png)
+
+2.6. [Userstoryn 2.2.4 - Testfall 4](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/2.5.%20Testfall%20Detaljer.png)
