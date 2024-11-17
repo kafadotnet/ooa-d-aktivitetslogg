@@ -14,7 +14,7 @@ Beskrivning: Jag och Arvid utgick från kravspecifikation och skapade första us
 6.4 [Userstoryn 6 - Aktiviter och Testfall](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/6.2.%20UserStory%20%236%20-%20Aktiviteter%26Testfall.png)
 
 ## Datum: 2024 - 10 - 28
-Beskrivning: Jag skapade en userstory utifrån kravspecifikation. Målet med userstoryn är att ge administratör möjligheter att kunna övervaka kund(er) profil(er) deras köphistorik. Jag använde mig av aktivitetsdiagram 1.3. som ligger som bilaga i detta dokument. Därefter järjade jag implementera i en TDD med hänsyn till enhetstester som sysns som bilaga:
+Beskrivning: Jag skapade en userstory utifrån kravspecifikation. Målet med userstoryn är att ge administratör möjligheter att kunna övervaka kund(er) profil(er) deras köphistorik. Jag använde mig av aktivitetsdiagram 1.3. som ligger som bilaga i detta dokument. Därefter började jag implementera i en TDD med hänsyn till enhetstester som sysns som bilaga:
 
 1.1. [Userstoryn 1:1](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/1.1.%20UserStory%20%231.png)
 
