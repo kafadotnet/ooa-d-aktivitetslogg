@@ -86,7 +86,7 @@ Beskrivning: Idag har jag börjat med att skapa DDD (Domain-Driven Development) 
 Projekts utveckling följde DDD struktur:
 - [Projekt Struktur:](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/1.%20Projekt%20DDD%20Struktur.png)
 
-## SOLID Principles
+### SOLID Principles
 ### SRP: 
 Jag använde mig av olika metoder som har egena ansvar och kunde används i olika ställe:
 
@@ -106,4 +106,5 @@ Tester genomförs på user och purchase entities:
 
 - [Theory användaning](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/4.%20User%20Entity%20Test.png)
 
-
+## Datum: 2024 - 11 - 06 och 2.024 - 11 - 07
+Jag har gått vidate med projekt utveckling.
