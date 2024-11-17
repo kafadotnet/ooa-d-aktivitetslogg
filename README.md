@@ -24,3 +24,12 @@ Beskrivning: Jag skapade en userstory utifrån kravspecifikation. Målet med use
 
 1.4. [Userstoryn 1.4: SekvensDiagram](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/1.3.%20UserStory%20%231%20-%20SekvensDiagram.png)
 
+## Datum: 2024 - 10 - 29
+Beskrivning: Jag har skapat en andra userstory utifrån kravspecifikation. Fokus i den här userstoryn ligger på administratörsmöjligheter att kunna övervaka på försäljningar så att generera rapporter.
+
+3.1. [Userstoryn 3.1](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/3.1.%20UserStoryn%20%233.png)
+
+3.2. [Userstoryn 3.2: AktivitetsDiagram](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/3.2.%20UserStoryn%20%233.2%20-%20Aktiviteter%20Testfall.png)
+
+3.3. [Userstoryn 3.3:](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/3.3.%20UserStory%20%233%20-%20AktivitetsDiagram.png)
+
