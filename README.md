@@ -107,7 +107,9 @@ Tester genomförs på user och purchase entities:
 - [Theory användaning](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/4.%20User%20Entity%20Test.png)
 
 ## Datum: 2024 - 11 - 06 och 2.024 - 11 - 07
-Jag har gått vidate med projekt utveckling.
+Jag har gått vidare med projekt utveckling. Däremot har jag inte lyckas med att spara purchase och user till databas medan tabellen har skapats. Det är utmaning som jag fortsätter ha koll på.
+
+- [Misslyckas databas biten](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/swagger.png)
 
 ## Datum: 2024 - 11 - 08
 Beskrivning: Jag har skapat en fjärde och femte userstoryer. Det fjärde har som syftet att administratör möjlighet att kunna hantera kundgrupper så att generera rapporter medan den femte fokuserar på användarensnavigering för att administratör ska kunna generera rapport om användarbeteende.
