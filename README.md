@@ -108,3 +108,21 @@ Tester genomförs på user och purchase entities:
 
 ## Datum: 2024 - 11 - 06 och 2.024 - 11 - 07
 Jag har gått vidate med projekt utveckling.
+
+## Datum: 2024 - 11 - 08
+Beskrivning: Jag har skapat en fjärde och femte userstoryer. Det fjärde har som syftet att administratör möjlighet att kunna hantera kundgrupper så att generera rapporter medan den femte fokuserar på användarensnavigering för att administratör ska kunna generera rapport om användarbeteende.
+
+### Userstoryn 4
+4.1. [Userstoryn 4](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/4.1.%20UserStoryn%20%234.png)
+
+4.2. [Userstoryn 4.1](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/4.2.%20UserStoryn%20%234.%20Aktiviteter%20%26%20Testfall.png)
+
+4.3. [Userstoryn 4.2](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/4.3.%20AktivitetsDiagram.png)
+
+### Userstoryn 5
+5.1. [Userstoryn 5](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/5.1.%20UserStoryn%20%235.%20Acceptanskriterier.png)
+
+5.2. [Userstoryn 5.1: Aktiviteter och Testfall](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/5.2.%20UserStoryn%20%235.%20Aktiviteter%20%26%20Testfall.png)
+
+5.3. [Userstoryn 5.3: AktivitetsDiagram](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/5.3.%20AktivitetsDiagram.png)
+
