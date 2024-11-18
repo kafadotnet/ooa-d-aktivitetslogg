@@ -115,9 +115,9 @@ Beskrivning: Jag har skapat en fjärde och femte userstoryer. Det fjärde har so
 ### Userstoryn 4
 4.1. [Userstoryn 4](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/4.1.%20UserStoryn%20%234.png)
 
-4.2. [Userstoryn 4.1](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/4.2.%20UserStoryn%20%234.%20Aktiviteter%20%26%20Testfall.png)
+4.2. [Userstoryn 4.1: Aktiviteter och Testfall:](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/4.2.%20UserStoryn%20%234.%20Aktiviteter%20%26%20Testfall.png)
 
-4.3. [Userstoryn 4.2](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/4.3.%20AktivitetsDiagram.png)
+4.3. [Userstoryn 4.2 AktivitetsDiagram:](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/4.3.%20AktivitetsDiagram.png)
 
 ### Userstoryn 5
 5.1. [Userstoryn 5](https://github.com/kafadotnet/ooa-d-aktivitetslogg/blob/main/5.1.%20UserStoryn%20%235.%20Acceptanskriterier.png)
